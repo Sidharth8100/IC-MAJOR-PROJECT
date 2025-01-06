@@ -1,0 +1,4 @@
+
+Deposit: 10
+Interest: 50
+Withdrawal: 2
